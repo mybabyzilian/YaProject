@@ -1,4 +1,4 @@
-package com.example.dllo.weproject;
+package com.example.dllo.myapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
